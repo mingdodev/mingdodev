@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 
 <div align = center>
 
-  <h3> Hi Hello 안녕하세요 ☁️🚀✨ <h3/>
-   <br>
+<div>
+  <p><strong>Hi Hello 안녕하세요 ☁️🚀✨</strong></p>
+</div>
+
+<br />
 
 <details>
 <summary>
