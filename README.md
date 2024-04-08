@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </summary>
 <br>
   
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="600" height="400"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="500" height="300"/>
 
 
 </details>
