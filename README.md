@@ -14,39 +14,14 @@ Here are some ideas to get you started:
 
 <div align = center>
 
-<div>
-  <p><strong>Hi 🙃</strong></p>
+![Demo](https://tech-orbit.wontory.dev/api?tech=Docker,Amazon%20Web%20Services,Spring%20Boot,NestJS&size=500&title=mingdo)
+
+![LeetCode Stats](https://leetcode.card.workers.dev/mingdo?theme=default&font=baloo&extension=null&border=0&width=400)
+
 </div>
 
-<br />
-
-<details>
-<summary>
-  🛠️
-</summary>
-  <br>
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 
-</details>
- <br>
-<details>
-<summary>
-  🌳
-</summary>
-<br>
-  
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="500" height="300"/>
-
-
-</details>
 <!-- </div>
 
 </details>
