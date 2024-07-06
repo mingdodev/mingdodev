@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <div align = center>
 
-![Demo](https://tech-orbit.wontory.dev/api?tech=Docker,Amazon%20Web%20Services,Spring%20Boot,NestJS&size=500&title=mingdo)
+<img src="https://tech-orbit.wontory.dev/api?tech=Docker,Amazon%20Web%20Services,Spring%20Boot,NestJS&size=500&title=mingdo" alt="read-me-tech" width="370"/>
 
 </div>
 
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 <!-- </div>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/mingdo?theme=default&font=baloo&extension=null&border=0&width=400)
+<img src="https://leetcode.card.workers.dev/mingdo?theme=default&font=baloo&extension=null&border=0&width=400" alt="read-me-leetcode">
 
 </div> -->
