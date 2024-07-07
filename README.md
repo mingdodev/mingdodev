@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <div align = center>
 
-<img src="https://tech-orbit.wontory.dev/api?tech=Docker,Amazon%20Web%20Services,Spring%20Boot,NestJS&size=500&title=mingdo" alt="read-me-tech" width="370"/>
+<img src="https://tech-orbit.wontory.dev/api?tech=Docker,Amazon%20Web%20Services,Spring%20Boot,node.js&size=500&title=mingdo" alt="read-me-tech" width="370"/>
 
 </div>
 
