@@ -1,38 +1,16 @@
-<!--
-**mingdodev/mingdodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. wow ~
+<span>I am a happy developer who loves challenges</span>
+<sub><img src="https://github.com/user-attachments/assets/d0135dc0-6597-41dd-aee2-fc4d6f35df8d" alt="free-animated-icon-rocket" height="32"></sub> <!--gif from flaticon-Freepik-->
 
-Here are some ideas to get you started:
+#### Recent Interests
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: mingdo.dev@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Digging Spring Ecosystem
+- How to build a good community for mutual growth
 
-studying
-skills
-spring boot
-java
-python
+#### Skills
 
--->
-
-<div align = center>
-
-<!--
-<img src="https://tech-orbit.wontory.dev/api?tech=Docker,Amazon%20Web%20Services,Spring%20Boot,node.js&size=500&title=mingdo" alt="read-me-tech" width="370"/>
--->
-
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,docker,aws,python,js)](https://skillicons.dev)
-
-</div>
-
-
-
-<!-- </div>
-
-<img src="https://leetcode.card.workers.dev/mingdo?theme=default&font=baloo&extension=null&border=0&width=400" alt="read-me-leetcode">
-
-</div> -->
+- **Programming Languages**
+  Java, Python
+- **Backend Development**
+  Spring, Express.js, Django
+- **DevOps/Cloud Services**
+  AWS, Docker
