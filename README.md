@@ -12,5 +12,5 @@
   Java, Python, C++, JavaScript
 - **Backend Development**
   Spring, Express.js, Django
-- **DevOps/Cloud Services**
-  AWS, Docker
+- **Infrastructure & Deployment**
+  AWS, NCP, Docker
